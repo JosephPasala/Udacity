@@ -6,3 +6,14 @@ All machine Learning concepts here.
 3. Decision Trees
 4. Choose your own algorithm
 5. Datasets and questions
+6. Regressions
+7. Outliers
+8. Clustering
+9. Feature Scaling
+10. Text Learning
+11. Feature Selection
+12. PCA
+13. Validation
+14. Evaluation Metrics
+15. Tying it All together
+16. Identify fraud from Enron Email
